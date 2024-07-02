@@ -17,7 +17,7 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Farsit-007&theme=react&include_all_commits=true&hide_border=true&background=0D1117&stroke=0D1117&fire=1769AA&sideLabels=00F0FF&currStreakNum=1769AA&ring=1769AA&currStreakLabel=1769AA&sideNums=00F0FF" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Farsit-007&theme=react&include_all_commits=true&hide_border=true&background=0D1117&stroke=0D1117&fire=1769AA&sideLabels=00F0FF&currStreakNum=1769AA&ring=1769AA&currStreakLabel=1769AA&sideNums=00F0FF" />
 </p>
 
 

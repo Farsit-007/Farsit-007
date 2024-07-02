@@ -3,10 +3,10 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="GIF" src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/techstack.gif" width="200px"/>
+<img align="right" alt="GIF" src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/techstack.gif" width="180px"/>
 
 - 🌱 I’m exploring - Next.js. 
--  👯 I’m looking - To collaborate on open source projects.
+-  👯 I’m looking - To work with team.
 - 💬 Ask me about - React.js 
 - 📫 How to reach me - robayatfarsit@gmail.com
 - 🤔 I’m trying - To develop my knowledge about frontend. 

@@ -3,14 +3,14 @@
 
 ## :eyes: Current overview
 
-<img align="right" alt="GIF" src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/techstack.gif" width="280px"/>
+<img align="right" alt="GIF" src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/techstack.gif" width="200px"/>
 
-### 🌱 I’m exploring - Next.js. 
-### 👯 I’m looking - To collaborate on open source projects.
-### 💬 Ask me about - React.js 
-### 📫 How to reach me - robayatfarsit@gmail.com
-### 🤔 I’m trying - To develop my knowledge about frontend. 
-### ⚡ Fun fact - I love to eat pizza,When i tried of coding!.
+- 🌱 I’m exploring - Next.js. 
+-  👯 I’m looking - To collaborate on open source projects.
+- 💬 Ask me about - React.js 
+- 📫 How to reach me - robayatfarsit@gmail.com
+- 🤔 I’m trying - To develop my knowledge about frontend. 
+- ⚡ Fun fact - I love to eat pizza,When i tried of coding!.
 
 <br />
 

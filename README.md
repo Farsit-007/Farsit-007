@@ -2,41 +2,7 @@
 <img src="https://github.com/Farsit-007/Farsit-007/blob/main/Banner.png" />
 
 
-<tr >
-    <td style="padding: 0 20px 20px 20px;">
-      <div style="background: rgba(255, 255, 255, 0.03); border-radius: 8px; padding: 12px; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.06) ; margin-top: 25px" >
-        <table cellspacing="0" cellpadding="0" border="0" width="100%">
-          <tr>
-            <td style="vertical-align: middle;">
-              <a href="https://robayat-kalam-farsit.vercel.app/" style="text-decoration: none; color: #C2A6F8; font-weight: 500;">
-               🔗
-                <span style="margin-left: 8px;">Portfolio</span>
-              </a>
-            </td>
-            <td style="text-align: right;">
-              <div style="display: inline-block;">
-                <a href="https://www.facebook.com/robayatkalamfarsit" target="_blank" style="margin-left: 12px;">
-                  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="22" style="vertical-align: middle;">
-                </a>
-                <a href="https://www.linkedin.com/in/robayatkalamfarsit/" target="_blank" style="margin-left: 12px;">
-                  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="22" style="vertical-align: middle;">
-                </a>
-                <a href="https://github.com/Farsit-007" target="_blank" style="margin-left: 12px;">
-                  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="22" style="vertical-align: middle;">
-                </a>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
 
-  <!-- Footer -->
-  <div style="margin-top: 20px; text-align: center; font-size: 10px; color: #888;">
-    Chittagong, Bangladesh | © 2025
-  </div>
-</div>
 ## :eyes: Current overview
 
 <img align="right" alt="GIF" src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/techstack.gif" width="180px"/>

@@ -20,21 +20,7 @@
 
 <br />
 
-[<p align="center"><img height="75"  src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">](www.linkedin.com/in/robayatkalamfarsit)[<img height="75"  src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">](https://www.facebook.com/robayatkalamfarsit)
-
-<br />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/robayatkalamfarsit" target="_blank">
-    <img height="60" width="60" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/robayatkalamfarsit" target="_blank">
-    <img height="60" width="60" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png" alt="Facebook" />
-  </a>
-</p>
-
-<br />
+[<p align="center"><img  src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">](www.linkedin.com/in/robayatkalamfarsit)[<img  src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">](https://www.facebook.com/robayatkalamfarsit)
 
 <br />
 

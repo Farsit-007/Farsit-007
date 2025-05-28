@@ -58,7 +58,7 @@
 </p>
 <p align="center">
    <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/redux.png" width="60px" height="60px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/vercel.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/vercel.webp" width="60px" height="60px"/>
    <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/shurjopay.png" width="60px" height="60px"/>
 </p>
 <br/>

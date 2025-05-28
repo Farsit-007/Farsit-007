@@ -21,10 +21,10 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/robayatkalamfarsit">
-    <img src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png" alt="LinkedIn" width="150">
+    <img src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png" alt="LinkedIn" height="150" width="150">
   </a>
   <a href="https://www.facebook.com/robayatkalamfarsit">
-    <img src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png" alt="Facebook" width="150">
+    <img src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png" alt="Facebook" height="150 width="150">
   </a>
 </p>
 

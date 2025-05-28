@@ -18,14 +18,10 @@
 
 ## :mailbox: Reach me out
 
-<br />
+<br>
 
-[<p align="center"><img height="150" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">](www.linkedin.com/in/robayatkalamfarsit)[<img height="150" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">](https://www.facebook.com/robayatkalamfarsit)
-<br />
+[<p align="center">[<img height="150" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">(www.linkedin.com/in/robayatkalamfarsit)][<img height="150" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">(https://www.facebook.com/robayatkalamfarsit)] </p>]
 
-[<p align="center"><img height="150" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">](www.linkedin.com/in/robayatkalamfarsit)[<img height="150" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">](https://www.facebook.com/robayatkalamfarsit) </p>]
-
-<br />
 <br />
 
 ## :chart_with_upwards_trend: Current Stats

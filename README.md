@@ -46,13 +46,19 @@
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/firebase.png" width="60px" height="60px"/>
    <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/stripe.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/ssl.png" width="60px" height="60px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/sql.png" width="60px" height="60px"/>
+ 
 </p>
 
 <p align="center">
+   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/sql.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/jwt.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/node2.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/express2.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/mongodb2.png" width="60px" height="60px"/>
+</p>
+<p align="center">
+   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/redux.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/vercel.png" width="60px" height="60px"/>
+   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/shurjopay.png" width="60px" height="60px"/>
 </p>
 <br/>

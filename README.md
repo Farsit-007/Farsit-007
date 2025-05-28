@@ -15,11 +15,12 @@
 - ⚡ Fun fact - I love to eat pizza,When i tried of coding!.
 
 <br />
+
 ## :mailbox: Reach me out
 
 <br />
 
-[<p align="center"><img height="75" width="75" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">](www.linkedin.com/in/robayatkalamfarsit)[<img height="75"  width="75" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">](https://www.facebook.com/robayatkalamfarsit)
+[<p align="center"><img height="75"  src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">](www.linkedin.com/in/robayatkalamfarsit)[<img height="75"  src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">](https://www.facebook.com/robayatkalamfarsit)
 
 <br />
 

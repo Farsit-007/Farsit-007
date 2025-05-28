@@ -24,6 +24,20 @@
 
 <br />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/robayatkalamfarsit" target="_blank">
+    <img height="60" width="60" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/robayatkalamfarsit" target="_blank">
+    <img height="60" width="60" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png" alt="Facebook" />
+  </a>
+</p>
+
+<br />
+
+<br />
+
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">

@@ -28,23 +28,23 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />: Tech I work on 
 <br>
 <p align="center">
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/HTML.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/css.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/JavaScript.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/c.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/cpp.png" width="40px" height="40px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/HTML.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/css.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/JavaScript.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/c.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/cpp.png" width="60px" height="60px"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/react.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/tailwind.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/Bootsrap.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/firebase.png" width="40px" height="40px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/react.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/tailwind.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/Bootsrap.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/firebase.png" width="60px" height="60px"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/node.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/express.png" width="40px" height="40px"/>
-  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/mongo.png" width="40px" height="40px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/node2.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/express2.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/mongodb2.png" width="60px" height="60px"/>
 </p>
 <br/>

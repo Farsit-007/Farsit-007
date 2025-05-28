@@ -41,7 +41,7 @@
 <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/node.png"/>
-<img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/express.png"/>
-<img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/mongo.png"/>
+<img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/node2.png"/>
+<img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/express2.png"/>
+<img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/mongodb2.png"/>
 </p><br/>

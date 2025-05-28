@@ -19,7 +19,14 @@
 ## :mailbox: Reach me out
 
 <br>
-[<p align="center"><img height="75" src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png">(https://www.linkedin.com/in/robayatkalamfarsit/)<img height="75" src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png">(https://www.facebook.com/robayatkalamfarsit) </p>]
+<p align="center">
+  <a href="https://www.linkedin.com/in/robayatkalamfarsit">
+    <img src="https://github.com/farsit-007/farsit-007/blob/main/assets/linkedin.png" alt="LinkedIn" width="150">
+  </a>
+  <a href="https://www.facebook.com/robayatkalamfarsit">
+    <img src="https://github.com/farsit-007/farsit-007/blob/main/assets/facebook.png" alt="Facebook" width="150">
+  </a>
+</p>
 
 <br />
 

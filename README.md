@@ -33,6 +33,10 @@
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/JavaScript.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/c.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/cpp.png" width="60px" height="60px"/>
+  
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/typescript.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/postgres.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/prisma.png" width="60px" height="60px"/>
 </p>
 
 <p align="center">
@@ -40,9 +44,13 @@
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/tailwind.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/Bootsrap.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/firebase.png" width="60px" height="60px"/>
+   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/stripe.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/ssl.png" width="60px" height="60px"/>
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/sql.png" width="60px" height="60px"/>
 </p>
 
 <p align="center">
+  <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/jwt.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/node2.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/express2.png" width="60px" height="60px"/>
   <img src="https://github.com/Farsit-007/Farsit-007/blob/main/assets/mongodb2.png" width="60px" height="60px"/>
